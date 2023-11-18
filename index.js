@@ -36,6 +36,10 @@ function isPalindrome(word) {
   4. Compare the original word and the reversed word using an if statement
 
   Other method involves using for loop. 
+  
+  1. Use for in loop to iterate through contents of word.
+  2. cycle through contents both forward and backward
+  3. if all contents match, return true. Otherwise return false.
 */
 
 /*
